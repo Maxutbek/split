@@ -6,6 +6,6 @@ public class Main {
     public static void main(String[] args) {
         String x = "cat-fish-rabbit-bird";
         String [] myAnimals = x.split("-");
-        System.out.println(myAnimals[2]);
+        System.out.println(myAnimals[1]);
     }
 }
